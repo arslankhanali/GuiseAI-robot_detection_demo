@@ -1,7 +1,7 @@
 # Robot detection demo
 
 The repository contains :
-1. robot_detection_640.pt (A YoloV5 model trained on annotated robot images)
+1. robot_detection_640.pt (YoloV5 model weights, trained on annotated robot images)
 2. track_robots_final.ipynb (A jupyter notebook that contains all the necessary code for installation and inference of the trained model)
 
 track_robots_final.ipynb contains the following sections:
