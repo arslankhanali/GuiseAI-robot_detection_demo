@@ -4,6 +4,8 @@ The repository contains:
 1. robot_detection_640.pt (YoloV5 model weights, trained on annotated robot images) 
 2. track_robots_final.ipynb (A jupyter notebook that contains all the necessary code for installation and inference of the trained model)
 
+The code is set intially to read the video as input and will be optimized to read the RTSP stream in the later versions.
+
 Please note that the model weights are not OpenVINO optimized yet.
 
 track_robots_final.ipynb contains the following sections:
