@@ -1,0 +1,6 @@
+train: ../r_data/train.txt
+val: ../r_data/test.txt
+
+nc: 2
+
+names: ["Robot-R","Robot-B"]
